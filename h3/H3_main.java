@@ -19,7 +19,7 @@ public class H3_main {
 				if (a[i]==a[j]) {
 					countA ++;
 				}
-				if (b[i]==b[j]) {
+				if (a[i]==b[j]) {
 					countB ++;
 				}	
 			}
